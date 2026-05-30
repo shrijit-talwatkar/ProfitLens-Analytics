@@ -35,9 +35,6 @@ This project is a Power BI dashboard built to analyze Madhav Ecommerce sales dat
 ## 🎯 Objective
 To analyze ecommerce data and help businesses understand sales performance and improve decision-making using visual analytics.
 
-## 📷 Dashboard Preview
-(Dashboard.pbix)
-
 ## 🚀 How to Use
 1. Download the repository
 2. Open `.pbix` file in Power BI Desktop
