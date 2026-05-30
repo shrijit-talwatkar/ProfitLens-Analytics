@@ -36,7 +36,7 @@ This project is a Power BI dashboard built to analyze Madhav Ecommerce sales dat
 To analyze ecommerce data and help businesses understand sales performance and improve decision-making using visual analytics.
 
 ## 📷 Dashboard Preview
-
+(Dashboard.pbix)
 
 ## 🚀 How to Use
 1. Download the repository
@@ -46,4 +46,4 @@ To analyze ecommerce data and help businesses understand sales performance and i
 ## 📌 Author
 Shrijit Talwatkar
 Email: shrijittalwatkar@gmail.com
-Linkediin: linkedin.com/in/shrijit-talwatkar
+Linkediin: http://www.linkedin.com/in/shrijit-talwatkar
