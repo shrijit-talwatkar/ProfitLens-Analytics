@@ -14,7 +14,8 @@ This project is a Power BI dashboard built to analyze Madhav Ecommerce sales dat
 ## 📁 Files in Repository
 - Orders.csv → Contains order details data  
 - Details.csv → Contains product/category details  
-- Madhav Store ECommerce Project.pbix → Power BI dashboard file  
+- Madhav Store ECommerce Project.pbix → Power BI dashboard file
+- Dashboard.png → Pwer BI dashboard image
 - README.md → Project documentation  
 
 ## 📊 Key Dashboard Insights
