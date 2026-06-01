@@ -42,5 +42,9 @@ To analyze ecommerce data and help businesses understand sales performance and i
 
 ## 📌 Author
 Shrijit Talwatkar
-Email: shrijittalwatkar@gmail.com
-Linkediin: http://www.linkedin.com/in/shrijit-talwatkar
+
+📧 Email: shrijittalwatkar@gmail.com
+
+🔗 LinkedIn: http://www.linkedin.com/in/shrijit-talwatkar
+
+🔗 GitHub: https://github.com/shrijit-talwatkar
