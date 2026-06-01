@@ -32,6 +32,10 @@ This project is a Power BI dashboard built to analyze Madhav Ecommerce sales dat
 - Dynamic charts (bar, pie, donut, line, area, map)
 - Data-driven insights for business decision making
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
+
 ## 🎯 Objective
 To analyze ecommerce data and help businesses understand sales performance and improve decision-making using visual analytics.
 
