@@ -1,4 +1,4 @@
-# ProfitLens-Analytics---Power-BI-Ecommerce-Sales-Dashboard
+# ProfitLens-Analytics
 Interactive Power BI dashboard analyzing e-commerce sales, profit, customer trends, and business performance using cleaned transactional data.
 # 📊 Madhav Ecommerce Sales Dashboard (Power BI)
 
